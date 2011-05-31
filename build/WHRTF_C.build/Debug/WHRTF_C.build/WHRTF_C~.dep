@@ -1,0 +1,8 @@
+2674d53f5e6db90435b30404f64531f0 bb19f68923c1e93ecd283360ce24abc5 ffffffffffffffffffffffffffffffff 43464 /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug/WHRTF_C
+00000000079573ea000000000000042c 9026672704d3b55502a64d1ce9a817fc ffffffffffffffffffffffffffffffff 33784 /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/whrtf.o
+000000000783e6ef0000000000007573 f1096b8b41ac4009e151fc38c83bbf23 ffffffffffffffffffffffffffffffff 11940 /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/sparseCoefficients.o
+00000000003ff71b0000000000006a6b fe958ee90f7bb47d72996ccffb31f0da ffffffffffffffffffffffffffffffff 11104 /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/ReadHrtf.o
+000000004a5c14a500000000000078ad 56b64c8e8bdb575ec23dc1fbbf768d11 ffffffffffffffffffffffffffffffff 3988 /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/MsgUtil.o
+00000000000000030000000000007539 749501ea9d31227f6336ff0f8e252bdb ffffffffffffffffffffffffffffffff 6604 /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/MathUtil.o
+000000004dcea76e0000000000004510 9bed1a1e4f4ec17905d6e71b1db49c61 ffffffffffffffffffffffffffffffff 7524 /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/main.o
+000000004a77de4f0000000000000601 07de67bcd47507a4bc028fe07e92b980 ffffffffffffffffffffffffffffffff 0 /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/whrtf-AF197C112A02A645.o

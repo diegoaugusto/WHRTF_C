@@ -1,0 +1,313 @@
+TWHRTF_C
+v7
+r0
+t328469459.351864
+cCheck dependencies
+cCompileC build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/main.o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/MathUtil.o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/MathUtil.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/MsgUtil.o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/MsgUtil.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/ReadHrtf.o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/ReadHrtf.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/sparseCoefficients.o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/sparseCoefficients.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/whrtf.o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug/WHRTF_C normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/time.h
+c000000004A73D6550000000000001E17
+t1249105493
+s7703
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/MathUtil.c
+c000000004DE1491F00000000000009E9
+t1306609951
+s2537
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"MathUtil.h"
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/MathUtil.h
+c000000004DE1491B0000000000000391
+t1306609947
+s913
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/MsgUtil.c
+c000000004DDBA641000000000000028A
+t1306240577
+s650
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"MsgUtil.h"
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/MsgUtil.h
+c000000004DDBA6430000000000000197
+t1306240579
+s407
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/ReadHrtf.c
+c000000004DDEBD8200000000000016E1
+t1306443138
+s5857
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"MsgUtil.h"
+i"MathUtil.h"
+i"ReadHrtf.h"
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/ReadHrtf.h
+c000000004DDBA5C600000000000001CD
+t1306240454
+s461
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug/WHRTF_C
+t1306776659
+s43464
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/MathUtil.o
+t1306776659
+s6604
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/MsgUtil.o
+t1306776659
+s3988
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/ReadHrtf.o
+t1306776659
+s11104
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/WHRTF_C.LinkFileList
+c000000004DE3D45300000000000002BA
+t1306776659
+s698
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/main.o
+t1306776659
+s7524
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/sparseCoefficients.o
+t1306776659
+s11940
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/whrtf-AF197C112A02A645.o
+t2
+s0
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/whrtf.o
+t1306776659
+s33784
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c
+c000000004DE3D44E0000000000000CA1
+t1306776654
+s3233
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i<sys/time.h>
+i<fftw3.h>
+i"runtime.h"
+i"whrtf.h"
+i"sparseCoefficients.h"
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/runtime.h
+c000000004DDEC9FD000000000000029B
+t1306446333
+s667
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/sparseCoefficients.c
+c000000004DE128C90000000000001EB5
+t1306601673
+s7861
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i"whrtf.h"
+i"sparseCoefficients.h"
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/sparseCoefficients.h
+c000000004DDFEA1400000000000001E6
+t1306520084
+s486
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c
+c000000004DE3B00A00000000000067ED
+t1306767370
+s26605
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"ReadHrtf.h"
+i"MathUtil.h"
+i<sys/time.h>
+i"runtime.h"
+i"whrtf.h"
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.h
+c000000004DE130920000000000000250
+t1306603666
+s592
+
+N/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtfConstants.h
+c000000004DDFD9B60000000000000252
+t1306515894
+s594
+
+N/usr/local/include/fftw3.h
+c000000004DE2A2AE0000000000003EFB
+t1306698414
+s16123
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328469459#328469459#0(0"0(0#1#0"8628247104#0"0#
+
+CCompileC build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/MathUtil.o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/MathUtil.c normal x86_64 c com.apple.compilers.gcc.4_2
+s328469459.017526
+e328469459.105833
+r1
+xCompileC
+xbuild/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/MathUtil.o
+x/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/MathUtil.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/MathUtil.c328469459#328469459#0(0"0(0#0#53"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/MathUtil.c8627800448#1594"    cd /Users/diego/Dev/Projetos/Mestrado/WHRTF_C    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-generated-files.hmap -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-own-target-headers.hmap -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-all-target-headers.hmap -iquote /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-project-headers.hmap -F/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug/include -I/usr/local/include -I/usr/local/include/fuse -I/usr/local/include/libavcodec -I/usr/local/include/libavdevice -I/usr/local/include/libavformat -I/usr/local/include/libavutil -I/usr/local/include/libswscale -I/usr/local/include/valgrind -I/usr/local/include/valgrind/vki -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/DerivedSources/x86_64 -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/DerivedSources -c /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/MathUtil.c -o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/MathUtil.o0#
+
+CCompileC build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/MsgUtil.o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/MsgUtil.c normal x86_64 c com.apple.compilers.gcc.4_2
+s328469459.018606
+e328469459.098436
+r1
+xCompileC
+xbuild/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/MsgUtil.o
+x/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/MsgUtil.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/MsgUtil.c328469459#328469459#0(0"0(0#0#52"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/MsgUtil.c8627642528#1592"    cd /Users/diego/Dev/Projetos/Mestrado/WHRTF_C    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-generated-files.hmap -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-own-target-headers.hmap -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-all-target-headers.hmap -iquote /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-project-headers.hmap -F/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug/include -I/usr/local/include -I/usr/local/include/fuse -I/usr/local/include/libavcodec -I/usr/local/include/libavdevice -I/usr/local/include/libavformat -I/usr/local/include/libavutil -I/usr/local/include/libswscale -I/usr/local/include/valgrind -I/usr/local/include/valgrind/vki -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/DerivedSources/x86_64 -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/DerivedSources -c /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/MsgUtil.c -o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/MsgUtil.o0#
+
+CCompileC build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/ReadHrtf.o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/ReadHrtf.c normal x86_64 c com.apple.compilers.gcc.4_2
+s328469459.019789
+e328469459.123698
+r1
+xCompileC
+xbuild/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/ReadHrtf.o
+x/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/ReadHrtf.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/ReadHrtf.c328469459#328469459#0(0"0(0#0#53"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/ReadHrtf.c8627622336#1594"    cd /Users/diego/Dev/Projetos/Mestrado/WHRTF_C    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-generated-files.hmap -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-own-target-headers.hmap -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-all-target-headers.hmap -iquote /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-project-headers.hmap -F/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug/include -I/usr/local/include -I/usr/local/include/fuse -I/usr/local/include/libavcodec -I/usr/local/include/libavdevice -I/usr/local/include/libavformat -I/usr/local/include/libavutil -I/usr/local/include/libswscale -I/usr/local/include/valgrind -I/usr/local/include/valgrind/vki -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/DerivedSources/x86_64 -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/DerivedSources -c /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/ReadHrtf.c -o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/ReadHrtf.o0#
+
+CCompileC build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/main.o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s328469459.016378
+e328469459.128622
+r1
+xCompileC
+xbuild/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/main.o
+x/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c: In function 'main0':
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:58: warning: implicit declaration of function 'convHost1'
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:58: warning: assignment makes pointer from integer without a cast
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:54: warning: unused variable 'p'
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:53: warning: unused variable 'out'
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:53: warning: unused variable 'in'
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:63: warning: control reaches end of non-void function
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c: In function 'main':
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:77: warning: format '%06lu' expects type 'long unsigned int', but argument 3 has type '__darwin_suseconds_t'
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:74: warning: unused variable 'whr'
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c: In function 'main2':
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:144: warning: format '%06lu' expects type 'long unsigned int', but argument 3 has type '__darwin_suseconds_t'
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:147: warning: unused variable 'atrasos'
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:150: warning: control reaches end of non-void function
+lSLF07#2@57"Compile /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c328469459#328469459#0(1394"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c: In function 'main0':/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:58: warning: implicit declaration of function 'convHost1'/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:58: warning: assignment makes pointer from integer without a cast/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:54: warning: unused variable 'p'/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:53: warning: unused variable 'out'/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:53: warning: unused variable 'in'/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:63: warning: control reaches end of non-void function/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c: In function 'main':/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:77: warning: format '%06lu' expects type 'long unsigned int', but argument 3 has type '__darwin_suseconds_t'/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:74: warning: unused variable 'whr'/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c: In function 'main2':/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:144: warning: format '%06lu' expects type 'long unsigned int', but argument 3 has type '__darwin_suseconds_t'/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:147: warning: unused variable 'atrasos'/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c:150: warning: control reaches end of non-void function11(22@44"Implicit declaration of function 'convHost1'328469459#72#108#0(6@49"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c328469454#58#0#58#0#36"implicit declaration of function '*'0(22@52"Assignment makes pointer from integer without a cast328469459#180#116#0(6@49"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c328469454#58#0#58#0#0"0(22@19"Unused variable 'p'328469459#296#83#0(6@49"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c328469454#54#0#54#0#19"unused variable '*'0(22@21"Unused variable 'out'328469459#379#85#0(6@49"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c328469454#53#0#53#0#19"unused variable '*'0(22@20"Unused variable 'in'328469459#464#84#0(6@49"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c328469454#53#0#53#0#19"unused variable '*'0(22@40"Control reaches end of non-void function328469459#548#104#0(6@49"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c328469454#63#0#63#0#40"control reaches end of non-void function0(22@95"Format '%06lu' expects type 'long unsigned int', but argument 3 has type '__darwin_suseconds_t'328469459#723#159#0(6@49"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c328469454#77#0#77#0#56"format '*' expects type '*', but argument * has type '*'0(22@21"Unused variable 'whr'328469459#882#85#0(6@49"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c328469454#74#0#74#0#19"unused variable '*'0(22@95"Format '%06lu' expects type 'long unsigned int', but argument 3 has type '__darwin_suseconds_t'328469459#1039#160#0(6@49"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c328469454#144#0#144#0#56"format '*' expects type '*', but argument * has type '*'0(22@25"Unused variable 'atrasos'328469459#1199#90#0(6@49"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c328469454#147#0#147#0#19"unused variable '*'0(22@40"Control reaches end of non-void function328469459#1289#105#0(6@49"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c328469454#150#0#150#0#40"control reaches end of non-void function0(0#0#49"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c8627828352#1586"    cd /Users/diego/Dev/Projetos/Mestrado/WHRTF_C    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-generated-files.hmap -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-own-target-headers.hmap -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-all-target-headers.hmap -iquote /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-project-headers.hmap -F/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug/include -I/usr/local/include -I/usr/local/include/fuse -I/usr/local/include/libavcodec -I/usr/local/include/libavdevice -I/usr/local/include/libavformat -I/usr/local/include/libavutil -I/usr/local/include/libswscale -I/usr/local/include/valgrind -I/usr/local/include/valgrind/vki -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/DerivedSources/x86_64 -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/DerivedSources -c /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/main.c -o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/sparseCoefficients.o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/sparseCoefficients.c normal x86_64 c com.apple.compilers.gcc.4_2
+s328469459.098567
+e328469459.180697
+r1
+xCompileC
+xbuild/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/sparseCoefficients.o
+x/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/sparseCoefficients.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/sparseCoefficients.c328469459#328469459#0(0"0(0#0#63"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/sparseCoefficients.c8631058080#1614"    cd /Users/diego/Dev/Projetos/Mestrado/WHRTF_C    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-generated-files.hmap -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-own-target-headers.hmap -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-all-target-headers.hmap -iquote /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-project-headers.hmap -F/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug/include -I/usr/local/include -I/usr/local/include/fuse -I/usr/local/include/libavcodec -I/usr/local/include/libavdevice -I/usr/local/include/libavformat -I/usr/local/include/libavutil -I/usr/local/include/libswscale -I/usr/local/include/valgrind -I/usr/local/include/valgrind/vki -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/DerivedSources/x86_64 -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/DerivedSources -c /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/sparseCoefficients.c -o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/sparseCoefficients.o0#
+
+CCompileC build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/whrtf-AF197C112A02A645.o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c normal x86_64 c com.apple.compilers.gcc.4_2
+s328301697.754157
+e328301697.755690
+r0
+xCompileC
+xbuild/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/whrtf-AF197C112A02A645.o
+x/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301697#328301697#0(2441"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c: In function 'calculateGp':/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:487: warning: unused variable 'partialResultLengthY'/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c: At top level:/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:570: error: conflicting types for 'dec_poly'/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:55: error: previous declaration of 'dec_poly' was here/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c: In function 'resp_imp':/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:775: warning: implicit declaration of function 'convFFT'/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:775: warning: assignment makes pointer from integer without a cast/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:797: warning: implicit declaration of function 'cudaMalloc'/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:798: error: 'initializeArray' undeclared (first use in this function)/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:798: error: (Each undeclared identifier is reported only once/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:798: error: for each function it appears in.)/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:798: error: expected expression before '<' token/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:802: error: expected expression before '<' token/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:803: warning: implicit declaration of function 'cudaMemcpy'/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:803: error: 'cudaMemcpyHostToDevice' undeclared (first use in this function)/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:804: error: expected expression before '<' token/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:805: warning: implicit declaration of function 'cudaFree'/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:808: error: 'cudaMemcpyDeviceToHost' undeclared (first use in this function)/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c: In function 'getCoefSpars':/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:879: warning: passing argument 1 of 'coef_spars' from incompatible pointer type/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c: In function 'getRespImp':/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:915: warning: passing argument 1 of 'resp_imp' from incompatible pointer type{standard input}:unknown:Undefined local symbol LC317(22@38"Unused variable 'partialResultLengthY'328301697#79#104#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301695#487#0#487#0#19"unused variable '*'0(23@13"At top level:328301697#183#66#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301695#0#0#0#0#0"0(4@32"Conflicting types for 'dec_poly'328301697#249#96#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301695#570#0#570#0#25"conflicting types for '*'0(13@43"Previous declaration of 'dec_poly' was here328301697#345#106#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301695#55#0#55#0#0"0(22@42"Implicit declaration of function 'convFFT'328301697#527#108#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301695#775#0#775#0#36"implicit declaration of function '*'0(22@52"Assignment makes pointer from integer without a cast328301697#635#118#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301695#775#0#775#0#0"0(22@45"Implicit declaration of function 'cudaMalloc'328301697#753#111#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301695#797#0#797#0#36"implicit declaration of function '*'0(4@57"'initializeArray' undeclared (first use in this function)328301697#864#121#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301695#798#0#798#0#43"'*' undeclared (first use in this function)0(4@36"Expected expression before '<' token328301697#1195#100#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301695#798#0#798#0#19"expected * before *0(4@36"Expected expression before '<' token328301697#1295#100#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301695#802#0#802#0#19"expected * before *0(22@45"Implicit declaration of function 'cudaMemcpy'328301697#1395#111#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301695#803#0#803#0#36"implicit declaration of function '*'0(4@64"'cudaMemcpyHostToDevice' undeclared (first use in this function)328301697#1506#128#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301695#803#0#803#0#43"'*' undeclared (first use in this function)0(4@36"Expected expression before '<' token328301697#1634#100#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301695#804#0#804#0#19"expected * before *0(22@43"Implicit declaration of function 'cudaFree'328301697#1734#109#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301695#805#0#805#0#36"implicit declaration of function '*'0(4@64"'cudaMemcpyDeviceToHost' undeclared (first use in this function)328301697#1843#128#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301695#808#0#808#0#43"'*' undeclared (first use in this function)0(22@65"Passing argument 1 of 'coef_spars' from incompatible pointer type328301697#2051#131#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301695#879#0#879#0#56"passing argument * of '*' from incompatible pointer type0(22@63"Passing argument 1 of 'resp_imp' from incompatible pointer type328301697#2260#129#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328301695#915#0#915#0#56"passing argument * of '*' from incompatible pointer type0(0#0#50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c8617690144#1333"    cd /Users/diego/Dev/Projetos/Mestrado/WHRTF_C    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-generated-files.hmap -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-own-target-headers.hmap -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-all-target-headers.hmap -iquote /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-project-headers.hmap -F/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug/include -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/DerivedSources/x86_64 -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/DerivedSources -c /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c -o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/whrtf-AF197C112A02A645.o1#
+
+CCompileC build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/whrtf.o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c normal x86_64 c com.apple.compilers.gcc.4_2
+s328469459.109038
+e328469459.242133
+r1
+xCompileC
+xbuild/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/whrtf.o
+x/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c: In function 'calculateGp':
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:492: warning: unused variable 'partialResultLengthY'
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c: In function 'getCoefSpars':
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:880: warning: passing argument 1 of 'coef_spars' from incompatible pointer type
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c: In function 'getRespImp':
+o/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:916: warning: passing argument 1 of 'resp_imp' from incompatible pointer type
+lSLF07#2@58"Compile /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328469459#328469459#0(601"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c: In function 'calculateGp':/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:492: warning: unused variable 'partialResultLengthY'/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c: In function 'getCoefSpars':/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:880: warning: passing argument 1 of 'coef_spars' from incompatible pointer type/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c: In function 'getRespImp':/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c:916: warning: passing argument 1 of 'resp_imp' from incompatible pointer type3(22@38"Unused variable 'partialResultLengthY'328469459#79#104#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328460170#492#0#492#0#19"unused variable '*'0(22@65"Passing argument 1 of 'coef_spars' from incompatible pointer type328469459#263#131#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328460170#880#0#880#0#56"passing argument * of '*' from incompatible pointer type0(22@63"Passing argument 1 of 'resp_imp' from incompatible pointer type328469459#472#129#0(6@50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c328460170#916#0#916#0#56"passing argument * of '*' from incompatible pointer type0(0#0#50"/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c8630772000#1588"    cd /Users/diego/Dev/Projetos/Mestrado/WHRTF_C    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-generated-files.hmap -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-own-target-headers.hmap -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-all-target-headers.hmap -iquote /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/WHRTF_C-project-headers.hmap -F/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug/include -I/usr/local/include -I/usr/local/include/fuse -I/usr/local/include/libavcodec -I/usr/local/include/libavdevice -I/usr/local/include/libavformat -I/usr/local/include/libavutil -I/usr/local/include/libswscale -I/usr/local/include/valgrind -I/usr/local/include/valgrind/vki -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/DerivedSources/x86_64 -I/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/DerivedSources -c /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/whrtf.c -o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/whrtf.o0#
+
+CLd /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug/WHRTF_C normal x86_64
+s328469459.242229
+e328469459.351808
+r1
+xLd
+x/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug/WHRTF_C
+xnormal
+xx86_64
+lSLF07#2@67"Link /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug/WHRTF_C328469459#328469459#0(0"0(0#0#0"8628261344#518"    cd /Users/diego/Dev/Projetos/Mestrado/WHRTF_C    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug -F/Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug -filelist /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/WHRTF_C.build/Debug/WHRTF_C.build/Objects-normal/x86_64/WHRTF_C.LinkFileList -mmacosx-version-min=10.6 -o /Users/diego/Dev/Projetos/Mestrado/WHRTF_C/build/Debug/WHRTF_C0#
+
